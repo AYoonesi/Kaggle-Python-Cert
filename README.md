@@ -27,10 +27,10 @@ To earn the Kaggle Python Certification, you need to complete the following cour
 
 This repository is organized as follows:
 
-[X] `certification-quiz/`: Contains sample quiz questions to test your knowledge.
-[X] `LICENSE`: The license for this repository (e.g., MIT License).
-[ ] `courses/`: Contains notebooks and code for Python Kaggle course.
-[ ] `certification-preparation/`: Includes additional resources, tips, and practice exercises to help you prepare effectively.
+- [X] `certification-quiz/`: Contains sample quiz questions to test your knowledge.
+- [X] `LICENSE`: The license for this repository (e.g., MIT License).
+- [ ] `courses/`: Contains notebooks and code for Python Kaggle course.
+- [ ] `certification-preparation/`: Includes additional resources, tips, and practice exercises to help you prepare effectively.
 
 ## Getting Started
 
